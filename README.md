@@ -27,4 +27,4 @@ The code implements 3d Monte Carlo simulations originally developed in [Lee, et 
 We would like to thank [Ricardo Coronado-Leija](https://scholar.google.com/citations?user=V5hykxgAAAAJ&hl=en) for the fruitful discussion of simulation implementation.
 
 ## License
-This project is licensed under the [LICENSE](https://github.com/leehhtw/monte-carlo-simulation-3D-RMS-exchange/blob/main/LICENSE).
+This project is licensed under the [LICENSE](https://github.com/Connectome20/monte-carlo-simulation-sphere-PGSE/blob/main/LICENSE).
